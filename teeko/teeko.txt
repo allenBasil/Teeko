@@ -1,0 +1,11 @@
+Teeko is played on a 5x5 board. there are two players: Blue and Red, each having 4 checkers of the corresponding color
+The goal of Teeko is to place four of your own checkers in horizontally, vertically, diagonally or in a 2x2square
+
+The game starts with an empty board. 
+The player controlling the blue pieces starts first. Players take turns placing on of their own checkers in any unoccupied spot on the board
+If neither player has won after placing all 8 checkers, the players continue the game by moving one of their checkers per turn to an
+adjacent unoccupied cell until a player wins
+
+To move pieces after they have been place on the board, the player must click on the piece and then on an empty cell. 
+
+To pause the game or to go to the instructions, press 'p' on the keyboard
